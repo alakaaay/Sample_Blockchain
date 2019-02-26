@@ -1,0 +1,16 @@
+Block Number: 0
+Data: Genesis
+Hash: 8683986e71b6886dc9205ae17cca02a662b735504ed6d64793abde92c75b8fdb
+Number of Hashes: 0
+======================================================================
+Block Number: 1
+Data: Alakay
+
+Hash: 0c91d314a5bd8795159847a02c99b56525cdc5d966fc326fdc2e1bc311d40a19
+Number of Hashes: 1578
+======================================================================
+Block Number: 2
+Data: Transaction: Bill to Jason 0.2btc
+Hash: cc3d59d5f65143c5589af9f03e7377b68b90dd54f218683df30e83df827a65f7
+Number of Hashes: 330
+======================================================================
